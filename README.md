@@ -13,13 +13,13 @@ I have over 9 years of experience in IT, particularly as a network administrator
 Currently, I'm two years into earning a bachelor's degree in cybersecurity from the SANS Technology Institute. In 2024, I had the privilege of interning with the Department of Energy as a frontend developer, where I contributed towards building a photography-based mobile app from scratch in six months.
 
 ### 🤹 Interests & Hobbies
-Outside of coding and studying tech topics, I enjoy making art! I'm a classically trained artist who likes to draw and paint portraits. I also have a keen interest in bullet journaling and creative writing. You'll quickly discover all my hobbies are intertwined with each other, as I like to make connections between everything I learn about!
+Outside of coding and studying tech topics, I enjoy making art! I'm a classically trained artist who likes to draw and paint portraits using traditional media like charcoal and oil paint. I also have a keen interest in bullet journaling and creative writing. You'll quickly discover all my hobbies are intertwined with each other, as I like to make connections between everything I learn about!
 
 
 ### ❤️ Life Philosophy
 > *"I wish to preach, not the doctrine of ignoble ease, but the doctrine of the strenuous life, the life of toil and effort, of labor and strife; to preach that highest form of success which comes, not to the man who desires mere easy peace, but to the man who does not shrink from danger, from hardship, or from bitter toil, and who out of these wins the splendid ultimate triumph."*
 
-If there's one philosophy I firmly stand for, it would be Theodore Roosevelt's "Strenuous Life" philosophy. I believe there is something special and admirable in any individual who voluntarily chooses to live a strenuous life, particularly in today's sendentary world. This ideal is beautifully illustrated in Xenophon's allegory, ["The Choice of Hercules"](https://www.artofmanliness.com/character/manly-lessons/manvotional-the-choice-of-hercules/). Its theme is powerfully summed up here in two statements:
+If there's one philosophy I firmly stand for, it would be Theodore Roosevelt's "Strenuous Life" philosophy. I believe there is something special and admirable in any individual who voluntarily chooses to live a strenuous life, particularly in today's sedentary world. This ideal is beautifully illustrated in Xenophon's allegory, ["The Choice of Hercules"](https://www.artofmanliness.com/character/manly-lessons/manvotional-the-choice-of-hercules/). Its theme is powerfully summed up here in two statements:
 
 > *"There can be no sweet without the bitter. No growth and no true happiness is obtainable without effort and without developing virtue"*
 
