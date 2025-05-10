@@ -8,8 +8,9 @@ Theme song: [Welcome to My World](https://www.youtube.com/watch?v=a1tIHb-qdXU)
 My name’s Anthony. The first thing you’ll learn about me: **I’m filled an insatiable curiosity to learn!** I like to introduce myself as “the digital autodidact” because I'm someone deeply driven by curiosity. Spend a day with me, and you'll quickly discover I'm the kind of person who strives to master technical **and** artistic disciplines. I make no distinction between technology and art — both are subjects that I love to immerse myself into and play with!
 
 ### 💼 Professional Background
-<!-- I have a degree in Computer Science and over 5 years of experience in web development, particularly in the JavaScript ecosystem. I’ve had the privilege of working at [Notable Company] where I led a team in building a [Project/Feature] that improved user engagement by 30%. -->
+I have over 9 years of experience in IT, particularly as a network administrator. A good chunk of my experience is derived from on-the-job training events during a 5 year enlistment in the US Marine Corps. After leaving the military, I explored the world a bit, working different jobs before deciding to return to the United States to attend college.
 
+Currently, I'm two years into earning a bachelor's degree in cybersecurity from the SANS Technology Institute. In 2024, I had the privilege of interning with the Department of Energy as a frontend developer, where I contributed towards building a photography-based mobile app from scratch in six months.
 
 ### 🔨 What I Do
 <!-- I specialize in front-end development and have experience with frameworks like React and Vue.js. Coding is my jam, and I love tackling complex problems with elegant solutions. -->
