@@ -5,7 +5,7 @@ Theme song: [Welcome to My World](https://www.youtube.com/watch?v=a1tIHb-qdXU)
 ### 🙂 About Me
 <!-- I'm a Cybersecurity student based in Washington DC, with a passion for research and building ???. I'm a programmer, artist and storyteller. A renaissance man on a quest! -->
 
-My name’s Anthony. The first thing you’ll learn about me: **I’m filled an insatiable curiosity to learn!** I like to introduce myself as “the digital autodidact” because I'm someone deeply driven by curiosity. Spend a day with me, and you'll quickly discover I'm the kind of person who strives to master technical **and** artistic disciplines. I make no distinction between technology and art — both are subjects that I love to immerse myself into and play with!
+My name’s Anthony. The first thing you’ll learn about me: **I’m filled with an insatiable curiosity to learn!** I like to introduce myself as “the digital autodidact” because I'm someone deeply driven by curiosity. Spend a day with me, and you'll quickly discover I'm the kind of person who strives to master technical **and** artistic disciplines. I make no distinction between technology and art — both are subjects that I love to immerse myself into and play with!
 
 ### 💼 Professional Background
 I have over 9 years of experience in IT, particularly as a network administrator. A good chunk of my experience is derived from on-the-job training events during a 5 year enlistment in the US Marine Corps. After leaving the military, I explored the world a bit, working different jobs before deciding to return to the United States to attend college.
